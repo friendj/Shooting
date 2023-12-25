@@ -1,0 +1,4 @@
+repository "Shooting@wechat_os_qy067lfq3nz7t623iwpxwtnem@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
