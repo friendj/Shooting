@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{7CF1F33E-A859-9D01-4F58-76470CD3E24C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapGenerator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GUI/MainShowWaveInfoDlg.cs" Line="18" Column="63" />
+      <File FileName="Assets/Scripts/Managers/ScoreManager.cs" Line="26" Column="39" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="42" Column="21" />
+      <File FileName="Assets/Scripts/Game.cs" Line="133" Column="1" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="19" Column="27" />
+      <File FileName="Assets/Scripts/EnemyBomb.cs" Line="44" Column="78" />
+      <File FileName="Assets/Scripts/TestScript/BatchesColorTest.cs" Line="13" Column="44" />
+      <File FileName="Assets/Scripts/MapGenerator.cs" Line="145" Column="45" />
+      <File FileName="Assets/Editor/MapEditor.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shooting" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="GUI" expanded="True" />
+                <Node name="Managers" expanded="True" />
+                <Node name="ScriptTables" expanded="True" />
+                <Node name="TestScript" expanded="True" />
+                <Node name="Tools" expanded="True" />
+                <Node name="Utils" expanded="True" />
+                <Node name="MapGenerator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7ef1ed64-3abc-4802-929c-9e463384ee22" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
